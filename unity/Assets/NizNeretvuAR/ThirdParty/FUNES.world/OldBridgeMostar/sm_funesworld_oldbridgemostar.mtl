@@ -1,0 +1,18 @@
+newmtl Solid
+Ka 1.0 1.0 1.0
+Kd 1.0 1.0 1.0
+Ks 0.0 0.0 0.0
+d 1.0
+Ns 0.0
+illum 0
+
+newmtl OldBridgeMostar_from_image
+Ka 1.0 1.0 1.0
+Kd 1.0 1.0 1.0
+Ks 0.0 0.0 0.0
+d 1.0
+Ns 0.0
+illum 0
+map_Kd sm_funesworld_oldbridgemostar_f3a80fe2b1.jpg
+map_Bump sm_funesworld_oldbridgemostar_normal_62e005463e.jpg
+
